@@ -61,3 +61,7 @@ loose(options3)   //Fine
 loose(options4)   //Fine
 loose(options5)   //Fine
 ```
+# Availability
+[NPM](https://www.npmjs.com/package/ts-strictargs)
+Install:
+$ npm install --save-dev ts-strictargs
