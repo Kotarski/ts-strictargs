@@ -1,0 +1,25 @@
+{
+  "name": "ts-strictargs",
+  "version": "1.0.0",
+  "description": "Provides types to specify how arguments are checked",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kotarski/ts-strictargs.git"
+  },
+  "keywords": [
+    "Typescript"
+  ],
+  "author": "Edward Kotarski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kotarski/ts-strictargs/issues"
+  },
+  "homepage": "https://github.com/Kotarski/ts-strictargs#readme",
+  "devDependencies": {
+   "typescript": "^3.1.0"
+  }
+}
