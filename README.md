@@ -66,3 +66,6 @@ loose(options5)   //Fine
 ```
 $ npm install --save-dev ts-strictargs
 ```
+
+# Github
+[https://github.com/Kotarski/ts-strictargs](https://github.com/Kotarski/ts-strictargs)

@@ -1,6 +1,6 @@
 {
   "name": "ts-strictargs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Provides types to specify how arguments are checked",
   "types": "index.d.ts",
   "scripts": {
